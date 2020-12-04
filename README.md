@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi 👋, I'm Tereza</h1>
+<h1 align="left">Hi, I'm Tereza 🐍 🖖🏽</h1>
 <h3 align="left">I am a Data Science Coach at neuefische</h3>
 
 <p align="left"> <a href="https://twitter.com/terezaif" target="blank"><img src="https://img.shields.io/twitter/follow/terezaif?logo=twitter&style=for-the-badge" alt="terezaif" /></a> </p>
