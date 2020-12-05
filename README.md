@@ -24,17 +24,17 @@
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 158 Contributions in the Year 2020
+> 🏆 162 Contributions in the Year 2020
  > 
 > 📦 111.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 26 Public Repositories
+> 📜 27 Public Repositories
  > 
 > 🔑 6 Private Repositories 
 
@@ -67,16 +67,20 @@ Sunday       3 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    10 mins             █████████░░░░░░░░░░░░░░░░   37.4% 
+Python                   9 mins              ████████░░░░░░░░░░░░░░░░░   35.35% 
+YAML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.92% 
+Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   6.44% 
+Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   6.24%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  27 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+protocols                27 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      27 mins             █████████████████████████   100.0%
 
 ```
 
