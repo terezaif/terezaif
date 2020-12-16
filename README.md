@@ -28,7 +28,7 @@
 
 **🐱 My Github Data** 
 
-> 🏆 210 Contributions in the Year 2020
+> 🏆 215 Contributions in the Year 2020
  > 
 > 📦 111.6 kB Used in Github's Storage 
  > 
@@ -37,7 +37,7 @@
 > 📜 29 Public Repositories 
  > 
 > 🔑 5 Private Repositories  
-
+ > 
 **I'm an Early 🐤** 
 
 ```text
