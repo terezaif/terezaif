@@ -28,6 +28,9 @@
 
 **🐱‍💻 Some projects I worked on lately**
 
+
+🎄The Advent of Code [2020](https://github.com/terezaif/adventofcode)
+
 [The Exploratory Data Analysis Checklist](https://github.com/neuefische/datascience-infographics)
 
 ![EDA](https://raw.githubusercontent.com/neuefische/datascience-infographics/main/images/EDA_Checklist.png?raw=True&s=20)
