@@ -25,11 +25,9 @@
 
 **🐱‍💻 Some projects I worked on lately**
 
-> [The Exploratory Data Analysis Checklist](https://github.com/neuefische/datascience-infographics)
+[The Exploratory Data Analysis Checklist](https://github.com/neuefische/datascience-infographics)
 
-<img src="(https://github.com/neuefische/datascience-infographics/blob/main/images/EDA_Checklist.png" alt="EDA Checklist" width="100" >
-
-![EDA](https://github.com/neuefische/datascience-infographics/blob/main/images/EDA_Checklist.png | width=100)
+![EDA](https://raw.githubusercontent.com/neuefische/datascience-infographics/main/images/EDA_Checklist.png?raw=True&s=20)
 
 
 ---
