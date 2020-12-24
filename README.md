@@ -23,78 +23,15 @@
 
 ---
 
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+**🐱‍💻 Some projects I worked on lately**
 
-**🐱 My Github Data** 
+> [The Exploratory Data Analysis Checklist](https://github.com/neuefische/datascience-infographics)
 
-> 🏆 239 Contributions in the Year 2020
- > 
-> 📦 111.7 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 30 Public Repositories 
- > 
-> 🔑 5 Private Repositories  
- > 
-**I'm an Early 🐤** 
+<img src="(https://github.com/neuefische/datascience-infographics/blob/main/images/EDA_Checklist.png" alt="EDA Checklist" width="100" >
 
-```text
-🌞 Morning    8 commits      █████░░░░░░░░░░░░░░░░░░░░   20.51% 
-🌆 Daytime    20 commits     ████████████░░░░░░░░░░░░░   51.28% 
-🌃 Evening    11 commits     ███████░░░░░░░░░░░░░░░░░░   28.21% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+![EDA](https://github.com/neuefische/datascience-infographics/blob/main/images/EDA_Checklist.png | width=100)
 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       5 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
-Tuesday      10 commits     ██████░░░░░░░░░░░░░░░░░░░   25.64% 
-Wednesday    2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.13% 
-Thursday     4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.26% 
-Friday       5 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
-Saturday     10 commits     ██████░░░░░░░░░░░░░░░░░░░   25.64% 
-Sunday       3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in Jupyter Notebook** 
-
-```text
-Jupyter Notebook         13 repos            █████████████░░░░░░░░░░░░   52.0% 
-Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
-Scala                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.0%
-
-```
-
-
-
-<!--END_SECTION:waka-->
 
 ---
 
-<em>Made with: [Waka Readme Stats](https://github.com/anmol098/waka-readme-stats) & [gh-profile-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)</em>
+<em>Made with: [gh-profile-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)</em>
