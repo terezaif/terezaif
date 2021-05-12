@@ -30,6 +30,7 @@
 **🐱‍💻 Some projects I worked on lately**
 
 📈30 Day Chart Challenge [2021](https://observablehq.com/collection/@terezaif/30daychartchallenge)
+![30 Day Chart Challenge](https://github.com/terezaif/30DayChartChallenge/blob/main/2021/30DayChartChallenge2021.png)
 
 🎄The Advent of Code [2020](https://github.com/terezaif/adventofcode)
 
