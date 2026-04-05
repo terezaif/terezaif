@@ -1,13 +1,13 @@
 
 <h1 align="left">Hi, I'm Tereza 🐍 🖖🏽</h1>
-<h3 align="left">I am a Data Science Coach at neuefische</h3>
+<h3 align="left">I am a Data & AI Leadership Coach. Currently interim Team Lead for Data Science, AIPM and AI Engineering at neuefische</h3>
 
 <p align="left"> <a href="https://twitter.com/terezaif" target="blank"><img src="https://img.shields.io/twitter/follow/terezaif?logo=twitter&style=for-the-badge" alt="terezaif" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=terezaif&label=Profile%20views&color=0e75b6&style=flat" alt="terezaif" /> </p>
 
 
-- 🔭 I’m currently working on [offworld](https://github.com/terezaif/offworld)
+- 🔭 My website with news and updates [terezaiofciu](https://terezaiofciu.com)
 
 - 👯 I’m looking for speakers for [**PyLadies Hamburg**](https://hamburg.pyladies.com)
 - 🙋🏻‍♀️ Pronouns: she/her
